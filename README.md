@@ -1,1 +1,1 @@
-# UChicago-Trading-Competition-2023
+# UChicago-Trading-Competition-2024
